@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterCourierPost", "BetterCourierPost\BetterCourierPost.csproj", "{53473B36-0AC2-4C77-869F-B0A7DFD3E490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53473B36-0AC2-4C77-869F-B0A7DFD3E490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53473B36-0AC2-4C77-869F-B0A7DFD3E490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53473B36-0AC2-4C77-869F-B0A7DFD3E490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53473B36-0AC2-4C77-869F-B0A7DFD3E490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CC419D6-4E55-426C-8BD8-36872CB28018}
+	EndGlobalSection
+EndGlobal
