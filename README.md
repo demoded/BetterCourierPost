@@ -31,8 +31,9 @@ training project to mimic courier company
 - ItemDimensionService [SpeedyShipping]
 
 ### PriceService
-*PriceService* receives a *DeliveryOrder* for processing and runs through all orderlines, calculating price for *DeliveryItem* on that line
+*PriceService* receives a *DeliveryOrder* for processing and runs through all orderlines, calculating price for *DeliveryItem* on that line.
 *PriceService* use *PricingRules* to determine all criterias that price build from
+*PriceService* should use different strategies to price Parcel and Service item types
 
 *PricingRule*
 - created for every *ItemDimension*
