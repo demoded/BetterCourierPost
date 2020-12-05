@@ -39,3 +39,5 @@ training project to mimic courier company
 - created for every *ItemDimension*
 - PriceType [Dollar, Percent]
 - PriceValue
+
+![paper versin :)](https://raw.githubusercontent.com/demoded/BetterCourierPost/master/IMG_20201206_121158.jpg)
